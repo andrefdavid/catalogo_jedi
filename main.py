@@ -1,1 +1,0 @@
-#Arquivo firmeza da live :)
