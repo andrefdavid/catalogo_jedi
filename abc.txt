@@ -1,0 +1,2 @@
+print("Olá, seres humanos!")
+nome = input("Escreva seu nome")
